@@ -9,5 +9,6 @@ Dit zijn mijn goals voor dit project:
 - [ ] 2 verschillende soorten. (gamma mode, karwei mode)
 - [ ] meerdere talen.
 
-[//]: # (## Personal goals)
+## Personal goals
+Dit project is voor mij om meer te leren over het mvc model in java, maar ook te expirimenteren met firebase. Natuurlijk wil ik ook plezier beleven.
 [//]: # (TODO)
