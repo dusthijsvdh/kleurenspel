@@ -1,6 +1,7 @@
-package me.thijsvdh;
+package me.thijsvdh.controllers;
 
 import javafx.fxml.FXML;
+import me.thijsvdh.App;
 
 import java.io.IOException;
 
