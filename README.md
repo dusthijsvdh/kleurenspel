@@ -8,6 +8,7 @@ Dit zijn mijn goals voor dit project:
 - [ ] Meer gamemodes.
 - [ ] 2 verschillende soorten. (gamma mode, karwei mode)
 - [ ] meerdere talen.
+natuurlijk zijn dit goals voor later in het project. Eerst moet de basis van de game er zijn.
 
 ## Personal goals
 Dit project is voor mij om meer te leren over het mvc model in java, maar ook te expirimenteren met firebase. Natuurlijk wil ik ook plezier beleven.
