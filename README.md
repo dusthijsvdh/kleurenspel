@@ -8,6 +8,7 @@ Dit zijn mijn goals voor dit project:
 - [ ] Meer gamemodes.
 - [ ] 2 verschillende soorten. (gamma mode, karwei mode)
 - [ ] meerdere talen.
+
 natuurlijk zijn dit goals voor later in het project. Eerst moet de basis van de game er zijn.
 
 ## Personal goals
