@@ -13,4 +13,3 @@ natuurlijk zijn dit goals voor later in het project. Eerst moet de basis van de 
 
 ## Personal goals
 Dit project is voor mij om meer te leren over het mvc model in java, maar ook te expirimenteren met firebase. Natuurlijk wil ik ook plezier beleven.
-[//]: # (TODO)
