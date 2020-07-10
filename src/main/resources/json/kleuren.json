@@ -1,0 +1,61 @@
+{
+  "gamma": {
+    "colors": [
+      {
+        "name": "Slagroom",
+        "hex": "#E5ECF2",
+        "code": "GN 076-13"
+      },
+      {
+        "name": "Schelp",
+        "hex": "#E7EBF1",
+        "code": "GN 087-13"
+      },
+      {
+        "name": "Schaap",
+        "hex": "#EBEFF5",
+        "code": "GN 082-13"
+      },
+      {
+        "name": "Stichting",
+        "hex": "#E0F2FF",
+        "code": "GN 069-13"
+      },
+      {
+        "name": "Steen",
+        "hex": "#CADCEB",
+        "code": "GN 061-11"
+      },
+      {
+        "name": "Satijn",
+        "hex": "#CAF2FF",
+        "code": "GN 008-13"
+      },
+      {
+        "name": "Sneeuwwit",
+        "hex": "#DFF1FF",
+        "code": "GN 103-13"
+      },
+      {
+        "name": "Slaap Zacht",
+        "hex": "#C0D8FE",
+        "code": "GN 105-11"
+      },
+      {
+        "name": "Spiegelen",
+        "hex": "#CDE2FF",
+        "code": "GN 105-12"
+      },
+      {
+        "name": "Speelklok",
+        "hex": "#C2CDD9",
+        "code": "GN 114-10"
+      },
+      {
+        "name": "Sissi",
+        "hex": "#C7E7FF",
+        "code": "GN 054-13"
+      }
+    ]
+  }
+}
